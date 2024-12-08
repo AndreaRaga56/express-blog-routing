@@ -31,6 +31,6 @@ const blogPosts = [
   }
 ];
 
-module.exports={
-    blogPosts
+module.exports = {
+  blogPosts
 }

@@ -37,6 +37,5 @@ const blogPosts = [
 ];
 
 module.exports = {
-  id: 1,
   blogPosts
 }
